@@ -1,6 +1,6 @@
 Hi, I'm YHWH. 
 
-It is nice to have you on my GitHub.I have a background in psychological research and have a special interest in the assessment of serious violent and sexual offenders. 
+It is nice to have you on my GitHub profile.I have a background in psychological research and have a special interest in the assessment of serious violent and sexual offenders. 
 
 Growing up, I always had an interest in computers and first made attempts to switch to linux-based OS and to learn code
 as a young teenager, although never found much success. Recently, I have been getting back into some simple programming and
